@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 <!-- Theme properties -->
-<string name="theme_title">ADWTheme Template</string>
+<string name="theme_title">ADW Rustik</string>
 <!-- To devs, read here on howto format/style your descriptions -->
 <!-- http://developer.android.com/intl/de/guide/topics/resources/string-resource.html#FormattingAndStyling -->
-<string name="theme_description">This is a &lt;b>long description&lt;/b> for the theme.&lt;br/>
-Theme developers should put here some &lt;u>info, license, and whatever&lt;/u> they want.&lt;br/>
-Maybe they could add some &lt;a href="http://www.google.com">links&lt;/a> too.</string>
+<string name="theme_description">You\'re no longer as young as you used to be, and your phone should reflect that :P. This theme is inspired by Dan Josiah\'s Sticker Album :).</string>
 <!-- Theme specific appearance settings -->
 <color name="bubble_color">#B2191919</color>
 <color name="bubble_text_color">#FFFFFFFF</color>
 <color name="drawer_text_color">#FFFFFFFF</color>
 <integer name="bubble_radius">8</integer>
-<color name="folder_title_color">#FFCCCCCC</color>
+<color name="folder_title_color">#FFFFFFFF</color>
 <bool name="use_drawer_icons_bg">false</bool>
 <color name="desktop_indicator_color">#FFFFFFFF</color>
 <!-- ADWSettings theme config  -->
@@ -22,10 +20,10 @@ Maybe they could add some &lt;a href="http://www.google.com">links&lt;/a> too.</
 <bool name="config_new_selectors">false</bool>
 <integer name="config_drawer_color">0x33000000</integer>
 <bool name="config_drawerLabels">true</bool>
-<bool name="config_fadeDrawerLabels">false</bool>
+<bool name="config_fadeDrawerLabels">true</bool>
 <bool name="config_desktop_indicator">true</bool>
 <!-- 1=top dots, 2=top slider, 3=bottom slider -->
-<string name="config_desktop_indicator_type">2</string>
+<string name="config_desktop_indicator_type">3</string>
 <!-- config_ab_scalefactor is a float value between 0.1 and 0.8. Set here the default .X (-1, 6 will become 7) -->
 <integer name="config_ab_scale_factor">6</integer>
 <!-- Force the theme to use an specific dock style -->
