@@ -4,7 +4,7 @@
 <string name="theme_title">ADW Rustik</string>
 <!-- To devs, read here on howto format/style your descriptions -->
 <!-- http://developer.android.com/intl/de/guide/topics/resources/string-resource.html#FormattingAndStyling -->
-<string name="theme_description">You\'re no longer as young as you used to be, and your phone should reflect that :P. This theme is inspired by Dan Josiah\'s Sticker Album :).</string>
+<string name="theme_description">You\'re no longer as young as you used to be, and your phone should reflect that :P. This theme is inspired by Dan Josiah\'s Sticker Album :).iconCredits to @eliotstocker for the Wallpaper Picker, and @JaiThemes for most of the included wallpapers.</string>
 <!-- Theme specific appearance settings -->
 <color name="bubble_color">#B2191919</color>
 <color name="bubble_text_color">#FFFFFFFF</color>

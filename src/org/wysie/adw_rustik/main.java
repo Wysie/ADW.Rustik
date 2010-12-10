@@ -8,6 +8,8 @@ package org.wysie.adw_rustik;
 
 import java.util.ArrayList;
 
+import org.wysie.adw_rustik.R;
+
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;

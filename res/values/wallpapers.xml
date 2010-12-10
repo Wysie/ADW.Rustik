@@ -17,6 +17,10 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
+    	<item>antiquebackground</item>
+    	<item>futurerelics</item>
+    	<item>sr_rough_texture_02</item>
+    	<item>sandbackground</item>
     	<item>theme_wallpaper</item>
     </string-array>
 </resources>

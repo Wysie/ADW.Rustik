@@ -7,6 +7,7 @@
     	<item>fav_star</item>
     	
     	<!-- App Icons -->
+    	<item>android_tether_mainactivity</item>
     	<item>com_a0soft_gphone_atrackdog_trackdog</item>
     	<item>com_adobe_reader_adobereader</item>
     	<item>com_aldiko_android_ui_homescreen</item>
@@ -23,8 +24,11 @@
     	<item>com_android_fm_radio_fmradio</item>
     	<item>com_android_mms_ui_conversationlist</item>
     	<item>com_android_music_musicbrowseractivity</item>
+    	<item>com_android_music_videobrowseractivity</item>
     	<item>com_android_settings_settings</item>
     	<item>com_android_vending_assetbrowseractivity</item>
+    	<item>com_android_voicedialer_voicedialeractivity</item>
+    	<item>com_aol_mobile_engadget_splashscreen_splashscreen</item>
     	<item>com_arron_taskmanager_taskmanager2_ui_activities_homeactivity</item>
     	<item>com_bel_android_dspmanager_activity_dspmanager</item>
     	<item>com_cerience_reader_app_repligoreader</item>
@@ -34,6 +38,7 @@
     	<item>com_evernote_ui_homeactivity</item>
     	<item>com_facebook_katana_loginactivity</item>
     	<item>com_google_android_apps_googlevoice_splashactivity</item>
+    	<item>com_google_android_apps_translate_homeactivity</item>
     	<item>com_google_android_gm_conversationlistactivitygmail</item>
     	<item>com_google_android_maps_driveabout_app_destinationactivity</item>
     	<item>com_google_android_maps_latitudeactivity</item>
@@ -44,14 +49,17 @@
     	<item>com_google_android_voicesearch_recognitionactivity</item>
     	<item>com_google_android_youtube_homeactivity</item>
     	<item>com_handcent_sms_ui_conversationexlist</item>
+    	<item>com_hbwares_wordfeud_lib_wordfeudactivity</item>
     	<item>com_iridianstudio_sgbuses_homeactivity</item>
     	<item>com_keramidas_titaniumbackup_mainactivity</item>
     	<item>com_koushikdutta_rommanager_rommanager</item>
     	<item>com_levelup_touiteur_touiteurmain</item>
     	<item>com_metago_astro_filemanageractivity</item>
+    	<item>com_mhuang_overclocking_introactivity</item>
     	<item>com_noshufou_android_su_su</item>
     	<item>com_nullsoft_winamp_splashscreenactivity</item>
     	<item>com_pandora_android_main</item>
+    	<item>com_photofunia_android_splash_splashactivity</item>
     	<item>com_reader_books_laputa_ui_activityfirstlaunch</item>
     	<item>com_shazam_android_splash</item>
     	<item>com_shownearby_directory_shownearby</item>
